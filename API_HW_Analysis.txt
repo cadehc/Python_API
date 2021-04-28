@@ -1,0 +1,18 @@
+## Part 1 Analysis
+
+We can see on the temperature vs latitude graph that the temperature increases as latitude approaches zero, nearing the equator.
+We also see that temperature drop dramatically as we get to postive 60+ latitude, which is approaching the North Pole.
+The temperature graph in general, has an upside-down parabolic shape as each end of the x-axis signifies low temperatures.
+
+
+In the humidity vs latitude plot, we see that temperature has a much higher influence on humidity than latitude does, 
+likely because the highest density of points are on the equator at 0 longitude. However, it's safe to say that high humidity 
+is common in most areas, especially in hot and possibly coastal/rainforest climates around the equator. When comparing hemispheres,
+we see that humidity seems to be much more common in the northern hemisphere and at a wider percentage range. Humidity in the southern
+hemisphere is less evenly distributed.
+
+
+When looking at the cloudiness vs latitude plot we see that, for the most part, the data is distributed pretty evenly. However, there
+are a couple areas on the plot that stand out: on the equator at 100 percent cloudiness (likely rainforest climates and storms moving 
+across the Atlantic Ocean), and in positive latitude (20-40) at 0 percent cloudiness (likely because of areas that have moderate 
+temperatures and generally many sunny days in a given year).
